@@ -2,7 +2,7 @@ package cuentas.clientes;
 
 public class Cuenta {
 
-    
+    //cambio
     private String nombre;
     private String cuenta;
     private double saldo;
